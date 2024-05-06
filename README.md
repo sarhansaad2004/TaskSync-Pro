@@ -1,9 +1,8 @@
 # Tasksync Pro - Empowering Your Productivity Journey
 
-## Website Link: [Click Here](tasksync-pro.web.com)
+## Website Link: [Click Here](https://tasksync-pro.web.com)
 
 ## Server Link: [Click Here]()
-
 
 ## Overview
 
@@ -32,3 +31,4 @@ This is a simple task management app built with React, using drag-and-drop funct
 ```bash
 git clone https://github.com/mehedihasanhrid1/tasksync-pro-client.git
 cd tasksync-pro-server
+```
